@@ -14,19 +14,14 @@ I'm a Polish **Student🎓** majoring in **Computer Science💻**, still learnin
 
 ## ⚡️ A few quick facts:
 #### <img src="https://github.com/yola512/yola512/raw/main/assets/girlWorking.png" height="250" align="right">
- - 🌱 **Currently Learning**: Python 🐍, Java ☕
- - 👩‍💻 **Current Projects**: RoomPals
+ - 🌱 **Currently Learning**: Java, Kotlin
  - 🍰 **Hobbies and Free-Time Activities**:
    - **Tech Projects & Tech/Gaming News:** I work on personal coding projects and stay updated on some game and tech news through podcasts and articles. 💻🎮
    - **Baking & Cooking:** Creating new recipes brings me joy and helps me unwind. 🍪 <img src="https://github.com/user-attachments/assets/017efa58-1554-47c2-9bcc-6605f48cae02" height="50" width="50">
 
    - **Learning Foreign Languages 🌍:** (on a mission to be BYE-lingual🤣, currently learning Spanish 🇪🇸).
    - **Fitness & Nutrition:** Staying active and exploring healthy living is a big part of my routine. 🏋️‍♀️🥗
-   - **Creative Pursuits**: Occasionally diving into drawing and solving puzzles 🎨🧩
- - 🕰️ **Time Wish**:
-   If only there were more hours in the day!  
-
-Stay curious, keep learning, and enjoy the process of growth! 💖
+   - **Creative Pursuits**: Occasionally diving into origami, drawing and solving puzzles 🎨🧩
 
 ### Tools and languages I use
 
